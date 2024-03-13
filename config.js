@@ -1,12 +1,12 @@
 var config = {
     
     lines: [
-        "Hi~DUDU",
-        "life is so hard",
-        "be nice to yourself",
-        "It's good enough I met you
-",
+        "Hi~小朋友",
+        "从今以后的每一天",
+        "我都会告诉自己要更用心地对你",
+        "真的很开心，能够遇到你",
+        "————永远在你身后的大朋友",
     ],
     date: "2020-10-25T21:09:09",
-    names: ["DUDU  ", "Time never changes"]
+    names: ["小朋友  ", " TIME "]
 }
